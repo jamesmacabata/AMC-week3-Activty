@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   about: {
-    height: 100, // Adjust height for About Me section
+    height: 100, 
   },
 });
 
